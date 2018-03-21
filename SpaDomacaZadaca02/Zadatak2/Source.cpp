@@ -1,7 +1,6 @@
 #include<iostream>
 #include <algorithm>
 #include <array>
-#include <vector>
 using namespace std;
 
 bool IsEven(int i) {
